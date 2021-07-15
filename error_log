@@ -1,0 +1,5 @@
+[22-Feb-2021 13:12:11 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/freshlyn/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Feb-2021 05:17:51 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/freshlyn/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Feb-2021 05:24:34 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/freshlyn/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Feb-2021 05:26:30 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/freshlyn/public_html/PHPMailer/PHPMailerAutoload.php on line 45
+[23-Feb-2021 05:26:43 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/freshlyn/public_html/PHPMailer/PHPMailerAutoload.php on line 45
